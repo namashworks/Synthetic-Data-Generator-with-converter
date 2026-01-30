@@ -7,7 +7,6 @@ A web application for generating realistic synthetic datasets using OpenAI's lan
 - Generate synthetic data from natural language descriptions
 - Support for multiple OpenAI models (GPT-4o, o1-preview, GPT-4-Turbo, etc.)
 - Export to CSV, JSON, Excel, TSV, Parquet, and TOON formats
-- Demo mode for presentations - let users try the app with your API key
 - Convert between formats after generation
 - Built-in data preview and statistics
 
